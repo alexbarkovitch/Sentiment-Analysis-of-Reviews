@@ -1,2 +1,3 @@
 # Sentiment-Analysis-of-Reviews
-Project #3
+Alex Barkovitch CMP 262 Project #3 4/22/2024
+This is a repository that contains the files needed for this project. It contains the python code as well as a png file for the wordcloud mask. This code uses the Yelp Fusion API to perform sentiment analysis on reivews. I'll look at reviews for nightclubs in New York, displaying data for 30 businesses. I will display the business name, category, rating, review count, and 3 reviews for each nightclub. I'll use both the default analyzer and NaiveBayesAnalyzer, adding up the values of the sentiment values for each and creating donut charts to compare the results. I will also create a WordCloud of the top 20 words used in all the reviews, and create a dataframe that allows us to see the top rated nightclubs and what categories are rated highest.
